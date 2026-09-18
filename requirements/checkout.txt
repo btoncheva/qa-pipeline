@@ -1,0 +1,9 @@
+As a customer
+I want to complete checkout with a credit card
+So that I can purchase items
+
+Rules:
+- Payment must validate card number
+- Expired cards must be rejected
+- Network failures should show retry message
+- Order must not be duplicated on retry

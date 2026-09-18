@@ -1,0 +1,14 @@
+TEST FAILED: test_valid_login
+
+Expected:
+Dashboard page is visible after login
+
+Actual:
+Timeout after 30 seconds waiting for dashboard
+
+Additional info:
+- Login API returned 200 OK
+- Session token generated
+- Redirect happened but page stayed blank
+
+Browser: Chrome 139

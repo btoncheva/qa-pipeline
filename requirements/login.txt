@@ -1,0 +1,9 @@
+As a user
+I want to login using email and password
+So that I can access my dashboard
+
+Acceptance Criteria:
+- Valid credentials allow login
+- Invalid password shows error
+- Locked users cannot login
+- Empty fields show validation messages
